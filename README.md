@@ -5,8 +5,8 @@ All these documents are licensed under Creative Commons Attribution-NonCommercia
 
 You are free to 
 
-# to Share — copy and redistribute the material in any medium or format
-# to Remix — remix, transform, and build upon the material
+- to Share — copy and redistribute the material in any medium or format
+- to Remix — remix, transform, and build upon the material
 
 Under the following conditions:
 
